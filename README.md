@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @re0xey
+- 👀 I’m interested in Go
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on peer-to-peer app in Go
+- 📫 How to reach me Slack
